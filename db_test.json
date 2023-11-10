@@ -1,0 +1,90 @@
+[
+  {
+    "id": "1",
+    "type": "income",
+    "amount": 13000,
+    "description": "Зарплата за вересень",
+    "category": "Заробітна плата",
+    "date": "2023-10-05"
+  },
+  {
+    "id": "2",
+    "type": "expenses",
+    "amount": 2300,
+    "description": "Оренда житла",
+    "category": "Житло",
+    "date": "2023-10-01"
+  },
+  {
+    "id": "3",
+    "type": "expenses",
+    "amount": 560,
+    "description": "Транспорт",
+    "category": "Транспорт",
+    "date": "2023-10-09"
+  },
+  {
+    "id": "4",
+    "type": "income",
+    "amount": 6100,
+    "description": "Оренда за землю",
+    "category": "Додатковий дохід",
+    "date": "2023-10-09"
+  },
+  {
+    "id": "5",
+    "type": "expenses",
+    "amount": 1250,
+    "description": "Продукти",
+    "category": "Їда",
+    "date": "2023-10-07"
+  },
+  {
+    "id": "6",
+    "type": "expenses",
+    "amount": 260,
+    "description": "Інтернет",
+    "category": "Квартира",
+    "date": "2023-10-01"
+  },
+  {
+    "id": "7",
+    "type": "income",
+    "amount": 8000,
+    "description": "Зарплата за жовтень",
+    "category": "Заробітна плата",
+    "date": "2023-10-22"
+  },
+  {
+    "id": "8",
+    "type": "expenses",
+    "amount": 1700,
+    "description": "Павербанк",
+    "category": "Електроніка",
+    "date": "2023-10-09"
+  },
+  {
+    "id": "9",
+    "type": "expenses",
+    "amount": 1650,
+    "description": "Масляний обігрівач",
+    "category": "Електроніка",
+    "date": "2023-10-08"
+  },
+  {
+    "id": "10",
+    "type": "income",
+    "amount": 1200,
+    "description": "Премія за вересень",
+    "category": "Премія",
+    "date": "2023-10-27"
+  },
+  {
+    "id": "11",
+    "type": "expenses",
+    "amount": 1900,
+    "description": "Подарунок дружині на ДН",
+    "category": "Подарунки",
+    "date": "2023-10-07"
+  }
+]
